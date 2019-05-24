@@ -1,0 +1,11 @@
+prefix=c:/devel/target/61604132dfba6fd9d6cb2ecd10200ed8
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: poppler
+Description: PDF rendering library
+Version: 0.6.2
+
+Libs: -L${libdir} -lpoppler
+Cflags: -I${includedir}/poppler

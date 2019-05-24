@@ -1,0 +1,9 @@
+prefix=c:/devel/target/61604132dfba6fd9d6cb2ecd10200ed8
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: poppler-splash
+Description: Splash backend for Poppler PDF rendering library
+Version: 0.6.2
+Requires: poppler = 0.6.2

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Page num="1" crop_box="0, 0, 612, 792" media_box="0, 0, 612, 792" rotate="0">
+<Flow id="1">
+<Para id="0">
+<Line box="45, 750.205, 151.38, 21.0445">
+PDFTRON</Line>
+</Para>
+<Para id="1">
+<Line box="45, 709.046, 137.197, 9.69122">
+PDFTRON SYSTEMS INC.</Line>
+<Line box="45, 696.926, 176.666, 9.69122">
+CPU Based License Agreements</Line>
+</Para>
+<Para id="2">
+<Line box="45, 668.308, 521.669, 7.75556">
+This document contains the Enterprise CPU License Agreement and the Web Application CPU License Agreement. Please refer to</Line>
+<Line box="45, 658.588, 459.827, 7.75556">
+the Agreement that corresponds to the license(s) you purchased from PDFTron or an authorized PDFTron reseller.</Line>
+</Para>
+<Para id="3">
+<Line box="45, 639.128, 521.733, 7.75556">
+If you have executed a separate agreement with PDFTron, such as an Enterprise Redistributable or OEM/Redistributable license</Line>
+<Line box="45, 629.408, 481.881, 7.75556">
+agreement, please refer to such fully executed agreement for all the applicable terms and conditions of your license(s).</Line>
+</Para>
+<Para id="4">
+<Line box="45, 609.968, 164.076, 7.75556">
+Go to Enterprise CPU License Agreement</Line>
+<Line box="45, 590.528, 187.588, 7.75556">
+Go to Web Application CPU License Agreement</Line>
+</Para>
+<Para id="5">
+<Line box="45, 571.088, 521.605, 7.75556">
+If you require more information about licensing PDFTron products, please visit our Licensing Info web page at:</Line>
+<Line box="45, 561.368, 467.105, 7.75556">
+http://www.pdftron.com/store/licensing.html or contact a PDFTron representative via email at: sales@pdftron.com.</Line>
+<Line box="45, 541.868, 45.1349, 7.75556">
+Thank you!</Line>
+</Para>
+</Flow>
+<Flow id="2">
+<Para id="0">
+<Line box="45, 170.007, 63.48, 7.25391">
+About PDFTron</Line>
+</Para>
+<Para id="6">
+<Line box="45, 151.767, 521.992, 7.28906">
+Specializing in PDF, SVG, XPS and other graphics technologies, PDFTron is a leading global provider of cross-platform, high-quality</Line>
+<Line box="45, 142.647, 522.008, 7.28906">
+products, including one of the most advanced PDF libraries on the market: PDFNet SDK. PDFTron’s programming technology enables</Line>
+<Line box="45, 133.527, 522.066, 7.28906">
+flawless integration of PDF capabilities with complex document and publishing workflows, interactive applications as well as in server</Line>
+<Line box="45, 124.467, 522.226, 7.28906">
+applications that require high-quality and reliable PDF processing. Forward-thinking, customer-centric, and quality-obsessed are some of</Line>
+<Line box="45, 115.347, 521.935, 7.28906">
+the distinguishing traits making PDFTron the primary resource for developers, systems integrators, OEMs and IT experts in essentially all</Line>
+<Line box="45, 106.227, 56.6475, 7.28906">
+industry areas.</Line>
+</Para>
+<Para id="7">
+<Line box="45, 87.9673, 86.3625, 7.28906">
+PDFTron Systems, Inc.</Line>
+<Line box="45, 78.8473, 114.9, 7.28906">
+780 Beatty Street, Suite #301</Line>
+<Line box="45, 69.7273, 127.822, 7.28906">
+Vancouver, BC, V6B 2M1, Canada</Line>
+</Para>
+<Para id="8">
+<Line box="219.8, 87.9673, 14.4975, 7.28906">
+Tel:</Line>
+<Line box="219.8, 78.8473, 16.665, 7.28906">
+Fax:</Line>
+</Para>
+<Para id="9">
+<Line box="255.8, 87.9673, 68.775, 7.28906">
++1-604-730-8989</Line>
+<Line box="255.8, 78.8473, 68.775, 7.28906">
++1-604-676-2477</Line>
+</Para>
+<Para id="10">
+<Line box="379.36, 87.9673, 23.9775, 7.28906">
+Email:</Line>
+<Line box="379.36, 78.8473, 19.965, 7.28906">
+Web:</Line>
+</Para>
+<Para id="0">
+<Line box="415.36, 87.9673, 67.4025, 7.28906">
+info@pdftron.com</Line>
+<Line box="415.18, 78.8473, 92.535, 7.28906">
+http://www.pdftron.com</Line>
+</Para>
+</Flow>
+<Flow id="3">
+<Para id="0">
+<Line box="45, 21.1273, 93.0525, 7.25391">
+PDFTron Systems Inc.</Line>
+<Line box="434.62, 21.1273, 132.413, 7.25391">
+CPU Based License Agreements</Line>
+</Para>
+</Flow>
+</Page>
