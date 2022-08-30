@@ -46,7 +46,7 @@
         "markdown-it": "^8.4.1",
         "marked": "^0.6.2",
         "moment": "^2.22.2",
-        "moment-timezone": "^0.5.21",
+        "moment-timezone": "^0.5.35",
         "numeral": "^2.0.6",
         "places.js": "^1.7.3",
         "popper.js": "^1.14.3",
